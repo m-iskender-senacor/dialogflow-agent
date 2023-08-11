@@ -1,0 +1,10 @@
+{
+  "name": "30eb099c-e256-4963-9ba8-9868b8b55038",
+  "displayName": "intent.sub.advanced",
+  "parameters": [ {
+    "id": "sub_tier",
+    "entityType": "@sub_tier"
+  } ],
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

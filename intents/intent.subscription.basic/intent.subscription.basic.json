@@ -1,0 +1,6 @@
+{
+  "name": "6ba10227-738a-4781-b4ba-98303f95f7b1",
+  "displayName": "intent.subscription.basic",
+  "priority": 500000,
+  "numTrainingPhrases": 1
+}

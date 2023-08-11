@@ -1,0 +1,12 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "Europe/Kaliningrad",
+  "projectNumber": 410713904013,
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT"
+}

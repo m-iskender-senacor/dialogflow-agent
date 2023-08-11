@@ -1,0 +1,27 @@
+{
+  "name": "2aa2db0b-ce57-4b67-bc70-5dc4f7ed2419",
+  "displayName": "subscription",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+    "messages": [ {
+      "text": {
+        "text": [ "hello in sub!" ]
+      },
+      "languageCode": "en"
+    } ]
+  },
+  "transitionRoutes": [ {
+    "intent": "intent.sub.advanced",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "ok advanced!" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "26c7e7cb-8bff-4dea-ac18-cdb1dbc6dd11"
+  } ]
+}

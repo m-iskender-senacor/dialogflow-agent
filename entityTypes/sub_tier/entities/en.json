@@ -1,0 +1,7 @@
+{
+  "entities": [ {
+    "value": "tier",
+    "synonyms": [ "gold", "silver", "bronze" ],
+    "languageCode": "en"
+  } ]
+}

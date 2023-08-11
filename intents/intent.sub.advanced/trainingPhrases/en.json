@@ -1,0 +1,14 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "i want to get the "
+    }, {
+      "text": "gold",
+      "parameterId": "sub_tier"
+    }, {
+      "text": " tier"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}
